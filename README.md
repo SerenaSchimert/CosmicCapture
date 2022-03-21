@@ -4,8 +4,10 @@ Cosmic Capture was completed as the term project for the games programming cours
 The game is built using C++, OpenGL for graphics, and NVIDIA PHYSX for driving simulation. We also use a few other C/C++ libraries, including SDL2 for input and window management, OpenAL for audio, assimp for loading 3D files, and glm for math.
 
 ## Cosmic Capture Demo
-Me badly playing Cosmic Capture by myself against the 3 AI. The prject is setup such that with controllers 4 people can play offline on the same computer instead of vs AI as well, but there is no online playability (was outside project scope). The below image is linked to a youtube video:
+Me badly playing Cosmic Capture by myself against the three AI. The below image is linked to a youtube video:
 [![Watch the video](https://img.youtube.com/vi/SXtFcH4nQ_c/maxresdefault.jpg)](https://youtu.be/SXtFcH4nQ_c)
+
+The project is setup such that with controllers four people can play offline on the same computer instead of vs AI as well, but there is no online playability (was outside project scope).
 
 # How to play
 
