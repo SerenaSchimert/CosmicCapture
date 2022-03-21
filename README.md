@@ -11,7 +11,8 @@ The project is setup such that with controllers four people can play locally on 
 
 # How to play
 
-## Requirements:  The game runs on windows computers, and runs best if the computer has a dedicated graphics card. Note that the Microsoft Visual C++ for visual studio 2015, 2017, and 2019 is required in order to run the game, and can be obtained from here: Visual C++ Download.
+## Requirements:  
+The game runs on windows computers, and runs best if the computer has a dedicated graphics card. Note that the Microsoft Visual C++ for visual studio 2015, 2017, and 2019 is required in order to run the game, and can be obtained from here: Visual C++ Download.
 
 ## Gameplay
 
