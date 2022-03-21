@@ -16,12 +16,12 @@ The game runs on windows computers, and runs best if the computer has a dedicate
 
 ## Gameplay
 
-As in classic capture the flag, grab the flag and return it to your corner of the arena. When you aren't in posession of the flag, the compass at the top of the creen will be pointing you towards it, and if you are in possession of the flag that compass will point you to home base (so no getting lost!). While bumping into someone just slows you down if neither have the flag, when someone is in possession of the flag you can both make them drop the flag and eject them back to their home base by driving into them. If a player or AI gets the flag to homebase everyone is teleported back to their starting positions and the flag back to the arena centre. 
+As in classic capture the flag, grab the flag and return it to your corner of the arena. When you aren't in posession of the flag, the compass at the top of the screen will be pointing you towards it, and if you are in possession of the flag that compass will point you to home base (so no getting lost!). While bumping into someone just slows you down if neither have the flag, when someone is in possession of the flag you can both make them drop the flag and eject them back to their home base by driving into them. If a player or AI gets the flag to homebase everyone is teleported back to their starting positions and the flag back to the arena centre. 
 
 Power-ups:
 1) Boost - a classic speed boost- quite powerful, so use wisely (something I fail to do in the above video)
 2) Projectile - ejects the target back to their home base if hit
-3) Spike traps- will stun any car that runs into them for a moment, preventing them from moving
+3) Spike trap- will stun any car that runs into it for a moment, preventing them from moving. Covers a large area.
 
 Gate-switches: there are gates throughout the arena, half of which are active at any given time. The unique strategy of this particular capture the flag game is to get in rhythm with the gates so that your path can take you to and from the flag witout having to take an unaccounted for detour.
 
